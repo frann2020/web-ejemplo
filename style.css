@@ -1,0 +1,131 @@
+
+body{
+	background-color: #F6F4F5;
+
+}
+
+.bg-dark { 
+	justify-content: space-between;
+	background-color: #181819!important;
+	box-shadow: 1px 0px 4px #1d1c1c;
+
+ }
+
+
+
+
+.banner {
+	background-image: url(https://image.freepik.com/foto-gratis/joven-ingeniero-haciendo-analisis-programas_1303-20402.jpg);
+	background-size: cover;
+	font-family: 'Raleway', sans-serif;
+	background-position:inherit;
+	padding: 150px 0;
+}
+
+.banner h1 {
+	color:white;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 32px;
+	text-shadow: 1px 3px 3px rgba(0,0,0,0.2);
+	font-weight: revert;
+
+
+}
+
+.banner p {
+	color:white;
+	font-family: 'Signika', sans-serif;
+	font-size: 20px;
+
+}
+
+
+
+.container1 {
+	justify-content: space-around;
+	padding: 20px;
+	
+}
+
+.btn-gradient {
+	color:white;
+	background: linear-gradient(90deg, hsla(221, 45%, 73%, 1) 0%, hsla(220, 78%, 29%, 1) 100%);
+	border-radius: 7px;
+	padding: 8px 24px;
+	font-weight: bold;
+    border: 1px solid #39290c;
+    transition: 0.3s ease;
+}
+
+.subtitulo {
+	    font-size: 20px;
+	    margin: 10px 30px 19px;
+	    padding: 1px 20px;
+
+}
+.subtitulo h2{
+
+}
+.subtitulo p {
+	font-family: 'Signika', sans-serif;
+}
+
+.container2 {
+	display: flex;
+	justify-content:space-between;
+	align-items: center;
+}
+
+
+.row {
+	display: flex;
+
+}
+
+
+.card-category {
+		width: 200px;
+	    background-size: cover;
+	    height: 250px;
+	    background-position: center;
+	    border-radius: 5px;
+	    color: white;
+	    text-align: center;
+	    font-size: 20px;
+	  	display: flex ;
+	    align-items: center;
+	    justify-content: center;
+	    text-shadow: 2px 1px 10px;
+	    box-shadow: 3px 3px 7px #c4c4c4;
+}
+
+.container-formulario {
+	background-color: #FFB238;
+	transition: background 0.3s ease;
+	font-weight: bold;
+}
+
+.bg-secondary {
+	color: white;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	border-radius: 6px;
+}
+.btn-primary {
+	border: 1px solid #0F60C4;
+}
+
+.foo a{
+	color:rgba(200,200,200);
+	padding: 10px;
+}
+.foo a:hover {
+	color: white;
+}
+
+.final {
+	color: white;
+}
+.final i {
+	color: red;
+}
